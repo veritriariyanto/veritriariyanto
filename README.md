@@ -8,20 +8,20 @@ Jangan lupa cek portfolio saya **[klik disini](https://v3423085.mhs.d3tiuns.com/
   
 </div>
 
-<div align="center">
+<div align="left">
 
-  <h2>🌐 Tech Stack ⚙️</h2>
+  <h2>🌐 Tech Stack </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,python,mysql,php,js,docker,fastapi,c" />
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,arduino,wordpress,tensorflow,linux" /> 
+  <img src="https://skillicons.dev/icons?i=laravel,vue,python,mysql,php,js,docker,fastapi" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,arduino,wordpress,tensorflow,linux,c" /> 
 </p>
   
 </div>
 
-<div align="center">
+<div align="left">
 
-  <h2>☀️ Social Media & Contact 📧</h2>
+  <h2>☀️ Social Media & Contact </h2>
   
   <p>
     <a href="https://www.linkedin.com/in/veritriariyanto/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

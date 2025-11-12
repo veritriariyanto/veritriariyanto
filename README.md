@@ -8,25 +8,21 @@ Jangan lupa cek portfolio saya **[klik disini](https://v3423085.mhs.d3tiuns.com/
   
 </div>
 
-<hr/>
-
 <div align="center">
 
-  <h2>🌐 Tech Stack  </h2>
+  <h2>🌐 Tech Stack ⚙️</h2>
 
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vue,python,mysql,php,js,docker,fastapi,c" />
   <img src="https://skillicons.dev/icons?i=vercel,git,github,arduino,wordpress,tensorflow,linux" /> 
-  </p>
+</p>
   
 </div>
-
-<hr/>
 
 <div align="center">
 
   <h2>☀️ Social Media & Contact 📧</h2>
-
+  
   <p>
     <a href="https://www.linkedin.com/in/veritriariyanto/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://discordapp.com/users/742207844387913768"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
@@ -35,11 +31,9 @@ Jangan lupa cek portfolio saya **[klik disini](https://v3423085.mhs.d3tiuns.com/
   
 </div>
 
-<hr/>
+<!-- <div align="center">
 
-<div align="center">
-
-  <h3>📈 GitHub Stats</h3>
+  <h3>📈 Statistik GitHub</h3>
   
   <img src="https://github-readme-stats.vercel.app/api?username=veritriariyanto&show_icons=true&theme=onedark&hide_border=true&count_private=true" alt="Statistik GitHub">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veritriariyanto&layout=compact&theme=onedark&hide_border=true" alt="Bahasa Paling Sering Digunakan">
@@ -48,4 +42,4 @@ Jangan lupa cek portfolio saya **[klik disini](https://v3423085.mhs.d3tiuns.com/
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=veritriariyanto&label=Jumlah%20Pengunjung&color=0e75b6&style=flat)
   
-</div>
+</div> -->

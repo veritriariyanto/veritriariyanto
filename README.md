@@ -13,8 +13,8 @@ Jangan lupa cek portfolio saya **[klik disini](https://v3423085.mhs.d3tiuns.com/
   <h2>🌐 Tech Stack </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,python,mysql,php,js,docker,fastapi" />
-  <img src="https://skillicons.dev/icons?i=vercel,git,github,arduino,wordpress,tensorflow,linux,c" /> 
+  <img src="https://skillicons.dev/icons?i=css,html,laravel,vue,python,mysql,php,js,docker,fastapi,nginx" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,github,arduino,wordpress,tensorflow,linux,c,postman,azure,vite" /> 
 </p>
   
 </div>
